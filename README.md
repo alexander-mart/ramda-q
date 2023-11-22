@@ -6,7 +6,7 @@ Some missed ramda complex functions
 ## Usage
 
 ```javascript
-import { findObject, findValue } from './ramda-extended.js'
+import { findObject, findValue } from 'ramda-q'
 
 const array = [
     { id: 1 , letter: 'a', t: 3     },
