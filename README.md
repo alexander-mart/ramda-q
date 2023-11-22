@@ -1,4 +1,4 @@
-# ramda-x
+# ramda-q
 
 Some missed ramda complex functions
 
