@@ -1,6 +1,6 @@
 # ramda-q
 
-Some missed ramda complex functions
+Some missed [ramda](https://www.npmjs.com/package/ramda) complex functions
 
 
 ## Usage
