@@ -1,4 +1,4 @@
-import { findObject, findValue } from './ramda-extended.js'
+import { findObject, findValue } from './index.js'
 
 const array = [
     { id: 1 , letter: 'a', t: 3     },
