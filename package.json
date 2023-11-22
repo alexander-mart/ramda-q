@@ -11,7 +11,7 @@
     "ramda"
   ],
   "author": "Alexander Mart <alex.mart.mail@gmail.com> (https://alex-mart.work)",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "ramda": "^0.29.1"
   }
